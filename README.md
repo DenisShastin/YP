@@ -8,6 +8,11 @@
 <p align=left>
 Репозиторий содержит проекты, выполненные в ходе прохождения учебной практики в <a href="https://praktikum.yandex.ru/">Yandex.Praktikum</a><br>
 
+<br>
+  <a href="https://disk.yandex.ru/i/3NzWbn4Qg3-efw"><b>Certificate of completion the course (English version)</b> :mortar_board: </a><br>
+    <a href="https://disk.yandex.ru/i/NrfD3MuWFywgzw"><b>Certificate of completion the course (Russian version)</b> :mortar_board: </a>
+</p><br>
+
 | Название проекта | Описание | Используемые библиотеки | Статус |
 | :---------------------- | :---------------------- | :---------------------- |:---------------------- |
 | [Анализ пользовательского поведения в мобильном приложении](https://github.com/DenisShastin/YP/blob/main/Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении/Анализ%20пользовательского%20поведения%20в%20мобильном%20приложении.ipynb) | На основе данных использования мобильного приложения проанализировать воронку продаж, а также оценить результаты A/A/B-тестирования.| *A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных* | Завершен |
